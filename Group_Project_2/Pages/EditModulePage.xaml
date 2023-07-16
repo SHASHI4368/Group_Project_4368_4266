@@ -1,0 +1,74 @@
+﻿<Page x:Class="Group_Project_2.Pages.EditModulePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Group_Project_2.Pages" xmlns:local1="clr-namespace:Group_Project_2.View_Models"
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="800"
+      Title="EditModulePage">
+    <Page.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis"/>
+    </Page.Resources>
+    <Page.DataContext>
+        <local1:EditModulePageVM/>
+    </Page.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" Height="40" Style="{StaticResource backButton}" HorizontalAlignment="Left" Margin="15 0" Width="110" Command="{Binding goBackCommand}">
+            <StackPanel Orientation="Horizontal">
+                <Icon:PackIconMaterial Kind="ArrowLeft" Height="15" Width="15" Style="{StaticResource gridButtonIcon}" Padding="0" Margin="0" VerticalContentAlignment="Center"/>
+                <TextBlock Text="Back" FontSize="22" Margin=" 10 0 0 0" FontWeight="SemiBold"/>
+            </StackPanel>
+        </Button>
+        
+        <TextBlock Grid.Row="1" HorizontalAlignment="Center" FontSize="30" FontWeight="SemiBold" Text="Edit Module" Margin="0 -15 0 10" Style="{StaticResource titleText}"/>
+
+        <!--module name-->
+        <StackPanel Grid.Row="2" Margin="30 0">
+            <StackPanel>
+                <TextBlock Text="Module Name" FontSize="18" Margin="20 10 10 0" Style="{StaticResource loginTBTitle}"/>
+                <Grid>
+                    <TextBlock VerticalAlignment="Center" Foreground="#575b5e" IsHitTestVisible="False" Margin="30 10 20 10" Panel.ZIndex="1" FontSize="18" Text="Enter Module Name" Visibility="{Binding ElementName=mName, Path=Text.IsEmpty, Converter={StaticResource BoolToVis}}" Style="{StaticResource textHint}"/>
+                    <TextBox Style="{StaticResource loginTextBox}" x:Name="mName" Margin="20 10 20 10" FontSize="18" Text="{Binding Module.ModuleName}"/>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <!--module code-->
+            <StackPanel Grid.Column="0" Margin="30 0">
+                <StackPanel>
+                    <TextBlock Text="Module Code" FontSize="18" Margin="20 10 10 0" Style="{StaticResource loginTBTitle}"/>
+                    <Grid>
+                        <TextBlock VerticalAlignment="Center" Foreground="#575b5e" IsHitTestVisible="False" Margin="30 10 20 10" Panel.ZIndex="1" FontSize="18" Text="Enter Module Code" Visibility="{Binding ElementName=mCode, Path=Text.IsEmpty, Converter={StaticResource BoolToVis}}" Style="{StaticResource textHint}"/>
+                        <TextBox Style="{StaticResource loginTextBox}" x:Name="mCode" Margin="20 10 20 10" FontSize="18" Text="{Binding Module.ModuleCode}"/>
+                    </Grid>
+                </StackPanel>
+            </StackPanel>
+
+            <!--credits-->
+            <StackPanel Grid.Column="1" Margin="30 0">
+                <StackPanel>
+                    <TextBlock Text="Number of Credits" FontSize="18" Margin="20 10 10 0" Style="{StaticResource loginTBTitle}"/>
+                    <Grid>
+                        <TextBlock VerticalAlignment="Center" Foreground="#575b5e" IsHitTestVisible="False" Margin="30 10 20 10" Panel.ZIndex="1" FontSize="18" Text="Enter Number of Credits" Visibility="{Binding ElementName=credits, Path=Text.IsEmpty, Converter={StaticResource BoolToVis}}" Style="{StaticResource textHint}"/>
+                        <TextBox Style="{StaticResource loginTextBox}" x:Name="credits" Margin="20 10 20 10" FontSize="18" Text="{Binding Module.Credits}" GotMouseCapture="credits_GotMouseCapture" GotKeyboardFocus="credits_GotKeyboardFocus"/>
+                    </Grid>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <Button Style="{StaticResource loginButton}" Margin="0 30 0 20" HorizontalAlignment="Center" Content="Save Changes" BorderBrush="Transparent"  FontSize="18" FontWeight="SemiBold" Grid.Row="5" Height="60" Padding="5" Command="{Binding changeModuleCommand}"/>
+    </Grid>
+</Page>

@@ -1,0 +1,450 @@
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.AssemblyReference.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2_MarkupCompile.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2_MarkupCompile.lref
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.exe
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.deps.json
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.runtimeconfig.json
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.pdb
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Humanizer.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\App.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\App.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MainWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.g.resources
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.AssemblyInfoInputs.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.AssemblyInfo.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.CoreCompileInputs.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.CopyComplete
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\refint\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.pdb
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.genruntimeconfig.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ref\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\LoginPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\LoginPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\UserGridViewPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\UserGridViewPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteUserWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteUserWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformDeleteWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformDeleteWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddOrRemoveModulesPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddOrRemoveModulesPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddModulesPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddModulesPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditModulePage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditModulePage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteModuleWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteModuleWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\NormalUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\NormalUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddStudentPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddStudentPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\StudentDetailsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\StudentDetailsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditStudentPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditStudentPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteStudentWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteStudentWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\ResultsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\ResultsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditResultsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\Practice\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditResultsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.exe
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.deps.json
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.runtimeconfig.json
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.pdb
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Humanizer.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.AssemblyReference.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformDeleteWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteModuleWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteStudentWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteUserWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddModulesPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddOrRemoveModulesPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddStudentPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditModulePage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditResultsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditStudentPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\LoginPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\NormalUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\ResultsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\StudentDetailsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\UserGridViewPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\App.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2_MarkupCompile.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2_MarkupCompile.lref
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\App.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformDeleteWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteModuleWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteStudentWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteUserWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MainWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddModulesPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddOrRemoveModulesPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddStudentPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditModulePage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditResultsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditStudentPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\LoginPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\NormalUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\ResultsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\StudentDetailsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\UserGridViewPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.g.resources
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.AssemblyInfoInputs.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.AssemblyInfo.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.CoreCompileInputs.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.CopyComplete
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\refint\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.pdb
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.genruntimeconfig.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ref\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\OtherUserEditPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\OtherUserEditPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.exe
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.deps.json
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.runtimeconfig.json
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.pdb
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Humanizer.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.AssemblyReference.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformDeleteWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteModuleWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteStudentWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteUserWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MWindow.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddModulesPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddOrRemoveModulesPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddStudentPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditModulePage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditResultsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditStudentPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\LoginPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\NormalUserPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\OtherUserEditPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\ResultsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\StudentDetailsPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\UserGridViewPage.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\App.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2_MarkupCompile.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2_MarkupCompile.lref
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\App.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformDeleteWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteModuleWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteStudentWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteUserWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MainWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MWindow.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddModulesPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddOrRemoveModulesPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddStudentPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditModulePage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditResultsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditStudentPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\LoginPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\NormalUserPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\OtherUserEditPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\ResultsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\StudentDetailsPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\UserGridViewPage.baml
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.g.resources
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.AssemblyInfoInputs.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.AssemblyInfo.cs
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.CoreCompileInputs.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.CopyComplete
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\refint\Group_Project_2.dll
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.pdb
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.genruntimeconfig.cache
+E:\ruhuna acadamic\SEM 3\EE3250 -  GUI Programming\End Projects\test2\backup\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ref\Group_Project_2.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.exe
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.deps.json
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.runtimeconfig.json
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Group_Project_2.pdb
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.AssemblyReference.cache
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformDeleteWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteModuleWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteStudentWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteUserWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddModulesPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddOrRemoveModulesPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddStudentPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddUserPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditModulePage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditResultsPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditStudentPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditUserPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\LoginPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\NormalUserPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\OtherUserEditPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\ResultsPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\StudentDetailsPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\UserGridViewPage.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2_MarkupCompile.cache
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2_MarkupCompile.lref
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\App.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformDeleteWindow.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ConformWindow.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteModuleWindow.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteStudentWindow.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\DeleteUserWindow.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\MWindow.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddModulesPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddOrRemoveModulesPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddStudentPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AddUserPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditModulePage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditResultsPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditStudentPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\EditUserPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\LoginPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\NormalUserPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\OtherUserEditPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\ResultsPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\StudentDetailsPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Pages\UserGridViewPage.baml
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.g.resources
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.AssemblyInfoInputs.cache
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.AssemblyInfo.cs
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.CoreCompileInputs.cache
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.csproj.CopyComplete
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\refint\Group_Project_2.dll
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.pdb
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\Group_Project_2.genruntimeconfig.cache
+C:\Users\shash\OneDrive\Desktop\Uploading Projects\Group_Project_2\Group_Project_2\obj\Debug\net7.0-windows\ref\Group_Project_2.dll
